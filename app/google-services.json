@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132199191878",
+    "firebase_url": "https://basecamp-6ae49.firebaseio.com",
+    "project_id": "basecamp-6ae49",
+    "storage_bucket": "basecamp-6ae49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132199191878:android:4774a9967ae590c230c147",
+        "android_client_info": {
+          "package_name": "com.opriday.basecamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132199191878-ji2gq9aukprp0p6rk92c3vjp5aurjep4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opriday.basecamp",
+            "certificate_hash": "dc041e404608b51a0974283ba721acb5cc16fb9a"
+          }
+        },
+        {
+          "client_id": "132199191878-60le3h1ktikbj44h3cfhcln1gf62il8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNGHC_1ZvqbO9WREW_DCoa2XPqPjdafc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132199191878-60le3h1ktikbj44h3cfhcln1gf62il8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
