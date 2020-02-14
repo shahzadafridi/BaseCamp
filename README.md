@@ -5,4 +5,6 @@ A Thiland based client want this small application which has firebase remote con
 
 ### Remote Config Firebase
 
-### Onesingal sdk impoementation.
+### Onesignal sdk implementation.
+
+Onesignal sdk implementation is used to send push notification to application.
